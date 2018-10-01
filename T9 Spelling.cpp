@@ -1,4 +1,4 @@
-// Hail TMW
+// Property of TMW
 #include <iostream>
 #include <cstdio>
 #include <string>
